@@ -30,10 +30,4 @@ Project is created with:
   alt="Todo List"
   title="Todo"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-  <br>
-  
-<img
-  src="./Crud_App.png"
-  alt="Todo List"
-  title="Todo"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
